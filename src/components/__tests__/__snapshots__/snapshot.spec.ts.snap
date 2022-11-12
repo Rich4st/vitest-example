@@ -1,0 +1,14 @@
+// Vitest Snapshot v1
+
+exports[`snapshot test > fruit snapshot 1`] = `
+[
+  {
+    "name": "Orange",
+    "price": 100,
+  },
+  {
+    "name": "Apple",
+    "price": 2000,
+  },
+]
+`;
